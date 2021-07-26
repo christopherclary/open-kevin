@@ -6,6 +6,7 @@ Kevin is a queer art series about online obsession with IRL implications. Findin
 
 [Learn more](https://christopherclary.com/kevin) more about Kevin.
 
+
 ## Instructions
 
 1. Go to http://www.java.com
@@ -16,9 +17,11 @@ Kevin is a queer art series about online obsession with IRL implications. Findin
 
 To exit out of the program use the cancel button, force quit, or power off.
 
+
 ## Make your own Kevin
 
 Selecting and opening was not just a Kevin thing. Create your own 1990s obsession by mixing in or replacing Kevin in the folder titled "jpegs". We'd love to see what you're lusting over. [Email us](mailto:chris@christopherclary.com) pics and links.
+
 
 ## Special edition
 
@@ -28,9 +31,11 @@ I saved the application onto a DVD. Each disc is personalized like carving a lov
 
 [Puchase](https://christopherclary.com/kevin-open) the DVD.
 
+
 ## Warning
 
 This application uses pornographic images. Before you continue, please be sure it is legal in your area for you to download images of sex and nudity. Open: Kevin will run in perpetuity, slow memory, and/or freeze the computer. To quit out of the application use the cancel button, force quit, or power off. By opening the application you acknowledge and understand Open: Kevin may freeze your computer and fully waive and release the artist and his associates from any and all claims.
+
 
 ## License
 
