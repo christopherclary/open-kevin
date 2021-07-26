@@ -18,7 +18,7 @@ To exit out of the program use the cancel button, force quit, or power off.
 
 ## Make your own Kevin
 
-Selecting and opening was not just a Kevin thing. Create your own 1990s obsession by mixing in or replacing Kevin in the folder titled "jpegs". We'd love to see what you're lusting over. [Email us](mailto:chris@christopherclary.com) your pics and links.
+Selecting and opening was not just a Kevin thing. Create your own 1990s obsession by mixing in or replacing Kevin in the folder titled "jpegs". We'd love to see what you're lusting over. [Email us](mailto:chris@christopherclary.com) pics and links.
 
 ## Special edition
 
