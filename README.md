@@ -20,7 +20,11 @@ To exit out of the program use the cancel button, force quit, or power off.
 
 ## Make your own Kevin
 
-Selecting and opening was not just a Kevin thing. Create your own 1990s obsession by mixing in or replacing Kevin in the folder titled "jpegs". We'd love to see what you're lusting over. [Email us](mailto:chris@christopherclary.com) pics and links.
+Open: Kevin (and porn in general) is about distribution, mediation, and now agency. Create your own 1990s obsession. By mixing in or replacing Kevin in the folder titled "jpegs". Femme things up. Use photos of your cats. Watch your family album go the same way as Kevin — unable to render, awash in a sea of windows. 
+
+## Share
+
+[Email us](mailto:chris@christopherclary.com) your version of Open: Kevin — pics and links. Everyone has a Kevin(s).
 
 
 ## Special edition
