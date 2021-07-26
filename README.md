@@ -24,7 +24,7 @@ Open: Kevin (and porn in general) is about distribution, mediation, and now agen
 
 ## Share
 
-[Email us](mailto:chris@christopherclary.com) your version of Open: Kevin — pics and links. Everyone has a Kevin(s).
+[Email us](mailto:chris@christopherclary.com) pics and links of how you personalized things. We'd love to start a family tree – see where Kevin takes us.
 
 
 ## Special edition
