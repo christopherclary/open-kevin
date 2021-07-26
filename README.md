@@ -18,11 +18,9 @@ Kevin is a queer art series about online obsession with IRL implications. Findin
 To exit out of the program use the cancel button, force quit, or power off.
 
 
-## Make your own Kevin
+## Make and share your own Kevin
 
 Open: Kevin (and porn in general) is about distribution, mediation, and now agency. Create your own 1990s obsession. By mixing in or replacing Kevin in the folder titled "jpegs". Femme things up. Use photos of your cats. Watch your family album go the same way as Kevin — unable to render, awash in a sea of windows. 
-
-## Share
 
 [Email us](mailto:chris@christopherclary.com) pics and links of how you personalized things. We'd love to start a family tree – see where Kevin takes us.
 
