@@ -20,7 +20,7 @@ To exit out of the program use the cancel button, force quit, or power off.
 
 Selecting and opening was not just a Kevin thing. Create your own 1990s obsession by mixing in or replacing Kevin in the folder titled "jpegs". We'd love to see what you're lusting over. [Email us](mailto:chris@christopherclary.com) your pics and links.
 
-## Special Edition
+## Special edition
 
 ![clary_kevinwashere](https://user-images.githubusercontent.com/40834845/127020694-e29f79a8-1989-49b7-ab90-33921580e428.jpg)
 
