@@ -2,7 +2,7 @@
 
 ![Screen-Shot-2019-03-04-at-4 54 03-PM](https://user-images.githubusercontent.com/40834845/127020111-9c64d03c-ed8b-4307-949e-d66982de96d1.png)
 
-Kevin is a queer art series about online obsession with IRL implications. Finding, loving, stalking, and morning images of an amateur porn star. I was surfing a pay-per-view website in the 90s and found Kevin, actual several hundred images of Kevin that I downloaded. I made a habit of selecting and opening all of them on my laptop. I was hoping to find that perfect jpeg. This Java application reenacts my obsession circa 1999 using Mac OS 9 ui/ux. The software loops —  opening and counting in perpetuity until the computer slows, images don't render, and in the end just the tech remains.  
+Kevin is a queer art series about online obsession with IRL implications. Finding, loving, stalking, and morning images of an amateur porn star. I was surfing a pay-per-view website in the 90s and found Kevin, actual several hundred images of Kevin that I downloaded. I made a habit of selecting and opening all of them on my laptop. I was hoping to find that perfect jpeg. This Java application reenacts my obsession circa 1999 using Mac OS 9 ui/ux. The software loops —  opening and counting in perpetuity until your computer slows, the Kevins don't render, and in the end just empty windows remains.  
 
 [Learn more](https://christopherclary.com/kevin) more about Kevin.
 
