@@ -2,7 +2,7 @@
 
 ![Screen-Shot-2019-03-04-at-4 54 03-PM](https://user-images.githubusercontent.com/40834845/127020111-9c64d03c-ed8b-4307-949e-d66982de96d1.png)
 
-Kevin is a queer art series about online obsession with IRL implications. Finding, loving, stalking, and morning images of an amateur porn star. I was surfing a pay-per-view website in the 90s and found Kevin, actual several hundred images of Kevin that I downloaded. I made a habit of selecting and opening all of them on my laptop. I was hoping to find that perfect jpeg. This Java application reenacts my obsession circa 1999 using Mac OS 9 ui/ux. The software loops —  opening and counting in perpetuity until your computer slows, the Kevins don't render, and in the end just empty windows remains.  
+Kevin is a queer art series about online obsession with IRL implications. Finding, loving, stalking, and morning images of an amateur porn star. I was surfing a pay-per-view website in the 90s and found Kevin, actual several hundred images of Kevin that I downloaded. I made a habit of selecting and opening all of them on my laptop. I was hoping to find that perfect jpeg. This Java application reenacts my obsession circa 1999 using Mac OS 9 ui/ux. The software loops —  opening and counting in perpetuity until your computer slows, Kevin doesn't render, and in the end just empty windows remains.  
 
 [Learn more](https://christopherclary.com/kevin) more about Kevin.
 
@@ -20,7 +20,7 @@ To exit out of the program use the cancel button, force quit, or power off.
 
 ## Make and share your own Kevin
 
-Open: Kevin (and porn in general) is about mediation, distribution, and now agency. Create your own 1990s obsession. By mixing in or replacing Kevin in the folder titled "jpegs". Femme things up. Use photos of your cats. Watch your family album go the same way as Kevin — unable to render, awash in a sea of windows. 
+Forget Kevin, now you can create your own 1990s obsession. Go to the folder titled "jpegs" and mix in your or replace Kevin entirely. Femme things up. Use photos of your cats. See how the application acts differently with your jpegs.
 
 [Email us](mailto:chris@christopherclary.com) pics and links of how you personalized things. We'd love to start a family tree – see where Kevin takes us.
 
