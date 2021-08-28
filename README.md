@@ -20,7 +20,7 @@ To exit out of the program use the cancel button, force quit, or power off.
 
 ## Make and share your own Kevin
 
-Forget Kevin, now you can create your own 1990s obsession. Go to the folder titled "jpegs" and mix in your or replace Kevin entirely. Femme things up. Use photos of your cats. See how the application acts differently with your jpegs.
+Forget Kevin, now you can create your own 1990s obsession. Go to the folder titled "jpegs" and mix in your images or replace Kevin entirely. Femme things up. Use photos of your cats. See how the application acts differently with your jpegs.
 
 [Email us](mailto:chris@christopherclary.com) pics and links of how you personalized things. We'd love to start a family tree – see where Kevin takes us.
 
