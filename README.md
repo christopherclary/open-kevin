@@ -29,7 +29,7 @@ Forget Kevin, now you can create your own 1990s obsession. Go to the folder titl
 
 ![clary_kevinwashere](https://user-images.githubusercontent.com/40834845/127020694-e29f79a8-1989-49b7-ab90-33921580e428.jpg)
 
-I saved the application onto a DVD. Each disc is personalized like carving a lover’s name into a tree. Damage and access to the data differs from disk to disk. If you’re unable to access the application because of the scratch marks, download the application here.
+I saved the application onto a DVD. Each disc is personalized like carving a lover’s name into a tree. Damage and access to the data differs from disk to disk. If you’re unable to access the application because of the scratch marks, download the application here on GitHub.
 
 [Puchase](https://christopherclary.com/kevin-open) the DVD.
 
