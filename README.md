@@ -41,4 +41,4 @@ This application uses pornographic images. Before you continue, please be sure i
 
 ## License
 
-Open: Kevin was created by Christopher Clary through a commission by Kailum Graves for The Goodwink Conspiracy. The software is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) license. 
+Open: Kevin was created by [Christopher Clary](https://christopherclary.com) through a commission by Kailum Graves for The Goodwink Conspiracy. The software is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) license. 
